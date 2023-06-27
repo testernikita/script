@@ -37,7 +37,7 @@ echo "-----------------------------------"
 # скачивание скрипта в папку
 echo "Шаг 3 из 6"
 echo "Скачиваем скрипт в ~/scripts/innotech/dns.sh"
-curl -o ~/scripts/innotech/dns.sh https://github.com/testernikita/script/blob/main/dns.sh
+curl -o ~/scripts/innotech/dns.sh https://raw.githubusercontent.com/testernikita/script/main/dns.sh
 echo "-----------------------------------"
 
 
